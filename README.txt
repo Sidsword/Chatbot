@@ -1,6 +1,6 @@
 make sure you are usinf ANACONDA navigation
 
-use shuld have python installent
+use should have python installed
 
 first run gui and then the chatbot
  
